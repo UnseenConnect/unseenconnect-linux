@@ -1,0 +1,19 @@
+{
+  "version": "0.0.9",
+  "buildNumber": 10,
+  "releaseDate": "2026-08-11",
+  "forceUpdate": false,
+  "changelog": [
+    "Новое: первая Linux-сборка UnseenConnect (x64)",
+    "Новое: обновлённый экран логов — поиск, фильтры по уровню, экспорт",
+    "Новое: диагностика устройства — HWID, платформа, модель и версия ОС",
+    "Новое: переключатель подробных логов (DEBUG) в настройках диагностики",
+    "Новое: польский язык интерфейса",
+    "Исправлено: лимит устройств — VPN отключается сразу, импорт подписки не блокируется",
+    "Исправлено: импорт подписки по ссылке unseen:// при запуске и из других приложений"
+  ],
+  "downloadUrl": "https://github.com/UnseenConnect/unseenconnect-linux/releases/latest/download/UnseenConnect-linux-x64.deb",
+  "sha256": "f9528a51b635a7ebdd544c5307237c0ec2ee3cc653f2365ddd38e67f34e57c28",
+  "portableDownloadUrl": "https://github.com/UnseenConnect/unseenconnect-linux/releases/latest/download/UnseenConnect-linux-x64.tar.gz",
+  "portableSha256": "8978e9be93dc3cd9f5806ebaeaf273aff602b23a72152be697f28ca75d1f62e4"
+}
